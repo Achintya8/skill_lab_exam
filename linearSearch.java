@@ -10,7 +10,7 @@ for(int a=0;a<n;a++){
 if (arr[a] == target){
 System.out.println("Element found at :" + a);
 }else{
-System.out.println("Element not found");
+ System.out.println("Element not found");
 }
 }
 
